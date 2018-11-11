@@ -1,0 +1,15 @@
+{
+  "name": "demopuppet-trialmodule",
+  "version": "0.1.0",
+  "author": "demopuppet",
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Smadat001/demopuppet.git",
+  "project_page": "test",
+  "issues_url": "https://github.com/Smadat001/demopuppet.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
